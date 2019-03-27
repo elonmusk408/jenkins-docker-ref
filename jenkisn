@@ -1,0 +1,18 @@
+
+#container-info
+# https://blog.softwaremill.com/editing-files-in-a-docker-container-f36d76b9613c
+
+........................
+#jenkins----- .net-project-info
+
+1.  https://www.swtestacademy.com/jenkins-dotnet-integration/
+2.  https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/
+3. 
+4. #######  In case you also want to install Jenkins from scratch you can check below articles.############
+
+https://www.swtestacademy.com/jenkins-selenium-java-maven/
+https://www.swtestacademy.com/jenkins-gitlab-integration/
+https://www.swtestacademy.com/jenkins-dotnet-integration/
+###############################################  Main -url #####################
+#####            parameterized jobs  in jenkins     ############################
+       https://www.swtestacademy.com/parametrized-jenkins-job/
